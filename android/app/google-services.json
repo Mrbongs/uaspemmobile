@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216613878444",
+    "firebase_url": "https://uaspmakhir-default-rtdb.firebaseio.com",
+    "project_id": "uaspmakhir",
+    "storage_bucket": "uaspmakhir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216613878444:android:f733cacc43b74e8ab17d09",
+        "android_client_info": {
+          "package_name": "com.example.cruddosen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216613878444-hcb4pkgordspo65g3fb5dnnha2tn7qee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWASR_39KELQV4tyNdyx_U7e_JPnTSpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216613878444-hcb4pkgordspo65g3fb5dnnha2tn7qee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
