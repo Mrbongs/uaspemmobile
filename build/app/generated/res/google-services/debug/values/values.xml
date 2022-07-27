@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">216613878444-hcb4pkgordspo65g3fb5dnnha2tn7qee.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uaspmakhir-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">216613878444</string>
+    <string name="google_api_key" translatable="false">AIzaSyDEWASR_39KELQV4tyNdyx_U7e_JPnTSpg</string>
+    <string name="google_app_id" translatable="false">1:216613878444:android:f733cacc43b74e8ab17d09</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEWASR_39KELQV4tyNdyx_U7e_JPnTSpg</string>
+    <string name="google_storage_bucket" translatable="false">uaspmakhir.appspot.com</string>
+    <string name="project_id" translatable="false">uaspmakhir</string>
+</resources>
